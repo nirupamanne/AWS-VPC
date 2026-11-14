@@ -382,24 +382,4 @@ After completing all the steps, verify the resources in the AWS Console.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# AWS-VPC
-### Create a VPC ###
-AWS Console-> Name:roboshop-dev, CIDR:10.0.0.0/16 ->create it.
-
-
-### create a Internet gateway ###
-
-###
-<img width="955" height="527" alt="image" src="https://github.com/user-attachments/assets/c28882dd-7c0c-4db0-85e5-e6eca34b27b2" />
+mg width="955" height="527" alt="image" src="https://github.com/user-attachments/assets/c28882dd-7c0c-4db0-85e5-e6eca34b27b2" />
