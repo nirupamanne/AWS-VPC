@@ -382,7 +382,3 @@ After completing all the steps, verify the resources in the AWS Console.
 * Delete the elastic IP, if you don't delete the elastic Ip amount will charge.
 * Delete the VPC
 
-
-
-
-mg width="955" height="527" alt="image" src="https://github.com/user-attachments/assets/c28882dd-7c0c-4db0-85e5-e6eca34b27b2" />
