@@ -7,8 +7,9 @@
 The project uses the following network architecture for the Roboshop application.
 
 ---
-# AWS VPC Architecture – Roboshop Project
+## AWS VPC Architecture – Roboshop Project
 
+![AWS VPC Architecture for Roboshop](./AWS%20VPC%20Architecture%20for%20Roboshop.webp)
 
 # Step 1: Create a VPC
 
