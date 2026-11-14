@@ -7,6 +7,8 @@
 The project uses the following network architecture for the Roboshop application.
 
 ---
+# AWS VPC Architecture – Roboshop Project
+
 
 # Step 1: Create a VPC
 
@@ -91,7 +93,7 @@ VPC CIDR for all subnets:
 
 | Field | Value |
 |---|---|
-| Name | roboshop-public-us-east-1a |
+| Name | roboshop-public-1a |
 | Availability Zone | us-east-1a |
 | VPC | roboshop-dev |
 | VPC CIDR | 10.0.0.0/16 |
@@ -101,7 +103,7 @@ VPC CIDR for all subnets:
 
 | Field | Value |
 |---|---|
-| Name | roboshop-public-us-east-1b |
+| Name | roboshop-public-1b |
 | Availability Zone | us-east-1b |
 | VPC | roboshop-dev |
 | VPC CIDR | 10.0.0.0/16 |
@@ -133,7 +135,7 @@ VPC CIDR for all subnets:
 
 | Field | Value |
 |---|---|
-| Name | roboshop-database-us-east-1a |
+| Name | roboshop-database-1a |
 | Availability Zone | us-east-1a |
 | VPC | roboshop-dev |
 | Subnet CIDR | 10.0.21.0/24 |
@@ -142,7 +144,7 @@ VPC CIDR for all subnets:
 
 | Field | Value |
 |---|---|
-| Name | roboshop-database-us-east-1b |
+| Name | roboshop-database-1b |
 | Availability Zone | us-east-1b |
 | VPC | roboshop-dev |
 | Subnet CIDR | 10.0.22.0/24 |
